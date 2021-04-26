@@ -1,1 +1,5 @@
-The Purdue Model is the model to be followed for an OT Security assessment. Operational Technology (OT) follows the purdue model.
+The Purdue Model is the model to be followed for an OT Security assessment. This model defines different layers of critical infrastructure in the production/manufacturing lines and the way to secure them.
+Operational Technology (OT) follows the purdue model. Therefore classifying the OT implementation into the Purdue Model would make it easier to implement the security in the OT environment in the manufacturing unit/line.
+The Purdue model has 5 layers:
+Layer 0: Physical Process [Components - sensors, actuators, pumps, valves, compressors, arms, etc.]
+Layer 1: 
